@@ -1,4 +1,5 @@
-package model;
+package com.coolweather.app.model;
+
 
 public class City {
 	private int id;
@@ -30,3 +31,4 @@ public class City {
 		provinceId = id;
 	}
 }
+

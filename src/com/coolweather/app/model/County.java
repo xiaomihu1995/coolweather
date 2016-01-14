@@ -1,4 +1,4 @@
-package model;
+package com.coolweather.app.model;
 
 public class County {
 	private int id;
@@ -30,3 +30,4 @@ public class County {
 		this.cityId = cityId;
 		}
 }
+

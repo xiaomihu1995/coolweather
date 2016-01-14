@@ -1,6 +1,4 @@
-package model;
-
-
+package com.coolweather.app.model;
 
 public class Province {
 private int id;
@@ -25,3 +23,4 @@ public void setProvinceCode(String code){
 	provinceCode = code;
 }
 }
+
